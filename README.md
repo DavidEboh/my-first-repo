@@ -1,28 +1,27 @@
-# This is a large heading
+# David Eboh
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitiation* and a **name**.
+I live in the city of (keep them guessing), in the state of (everything is bigger), in the United States of America.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Four of my favorite books are
 
-Here is `some code` in the middle of a sentence.
+- *The Bible* NKJV
+- *The Chronicles of Narnia* by C.S Lewis
+- *Lord of The Rings* by J. R. R. Tolkien
+- *A Game of Thrones* br George R. R. Martin
 
-```
-This is 
-a block
-of code
-```
-Here is how you make [a link] (https://www.wikipedia.org/).
+### Food
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+Last night I dreamt about eating in these resturants
 
+1. I didn't
+2. dream about
+3. eating at
+4. a resturant
+
+### Contact
+
+The best way to get in touch with me is [on twitter] (https://twitter.com/D3_B0H).
